@@ -5,7 +5,7 @@ return (
         <div className="w-5/12 left-0 hidden lg:block h-full absolute bg-center bg-cover" style={{backgroundImage: "url('https://raw.githubusercontent.com/Loopple/loopple-public-assets/main/motion-tailwind/img/header-2.jpg')"}}>
 
         </div>
-        <div className="container flex flex-col items-center h-full mx-auto draggable pt-4 pb-20">
+        <div className="container flex flex-col items-center h-full mx-auto draggable pt-4 pb-8">
             <div className="relative flex items-center justify-between w-full px-4 py-10 bg-transparent group shrink-0">
                 <div>
                     <img className="hidden lg:block h-8" src="https://loopple.s3.eu-west-3.amazonaws.com/images/B17c2uCXZ1VUC20bqfQSCn7EKsNWu43hIb54TxlZ.png">
