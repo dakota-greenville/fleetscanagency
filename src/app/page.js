@@ -10,7 +10,7 @@ return (
                 <div>
                     <img className="hidden lg:block h-8" src="https://loopple.s3.eu-west-3.amazonaws.com/images/B17c2uCXZ1VUC20bqfQSCn7EKsNWu43hIb54TxlZ.png">
                     </img>
-                    <img className="block lg:hidden h-8" src="https://raw.githubusercontent.com/Loopple/loopple-public-assets/main/motion-tailwind/img/logos/logo-nav-0.png">
+                    <img className="block lg:hidden h-8" src="https://loopple.s3.eu-west-3.amazonaws.com/images/h2iKczFNnARZWYEMVEyckUYikBuWBgw5hrUlYTjz.svg">
                     </img>
                 </div>
                 <div className="items-center justify-end hidden text-black lg:flex">
